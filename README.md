@@ -1,0 +1,2 @@
+# starmap
+A simple pygame
